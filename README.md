@@ -1,16 +1,9 @@
 # vibes
 
-A new Flutter project.
+What if there's an app for kids to learn usefull content from social media instead of doom scrolling which may contain senstive, adlutary and foul content ?
 
-## Getting Started
+This app mainly foucuses of two parts:
 
-This project is a starting point for a Flutter application.
+1. Only shows users intrested kid's content by using a powerful recommendation system
+2. Only allows users to upload clean content, by using Google cloud vision api to filter out clutter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
