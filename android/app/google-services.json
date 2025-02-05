@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956385978188",
+    "project_id": "vibes-fb4ac",
+    "storage_bucket": "vibes-fb4ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956385978188:android:4e97fd854ab5e1c61751e9",
+        "android_client_info": {
+          "package_name": "com.example.vibes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbsUT-ohLASKaYXpUUlEShJXJ8N93S_iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
